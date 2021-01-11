@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Background-Generator for Your Webpage",
+  "main": "script.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kushal-Ambati/Background-Generator.git"
+  },
+  "keywords": [
+    "Background-generator"
+  ],
+  "author": "kushal-Ambati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kushal-Ambati/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/kushal-Ambati/Background-Generator#readme"
+}
